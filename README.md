@@ -2,7 +2,7 @@
 
 I'm **Mohamed El-Tnash**, a software engineer based in Egypt.
 
-I design and build whatever makes my life or my client's life easier, whether it's an automation to save time or a script to solve a problem.
+I design and build whatever makes my life or my clients’ lives easier, whether it's an automation to save time or a script to solve a problem.
 
 ---
 
@@ -15,14 +15,14 @@ I design and build whatever makes my life or my client's life easier, whether it
 **FastAPI** (Python), **PostgreSQL**, **SQLAlchemy**, **Pydantic**, **Celery**, **RabbitMQ**
 
 ### For Frontend
-**Next.js** (React), **TailwindCSS**
+**Next.js** (React + TypeScript), **TailwindCSS**
 
 ### For Data Analysis
 **Pandas** (Python), **Apache Superset** (using Docker)
 
 ---
 
-One of my earliest and favorite projects is [**GeoScrape**](https://github.com/Mohamed-El-Tnash/geoscrape-case-study)
+One of my favorite recent projects is [**OC SCRAPER**](https://github.com/Mohamed-El-Tnash/oc-scraper-case-study)
 
 ---
 
