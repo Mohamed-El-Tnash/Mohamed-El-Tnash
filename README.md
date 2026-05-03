@@ -22,7 +22,7 @@ I design and build whatever makes my life or my clients’ lives easier, whether
 
 ---
 
-One of my favorite recent projects is [**OC SCRAPER**](https://github.com/Mohamed-El-Tnash/oc-scraper-case-study)
+One of my favorite recent projects is [**Zill Scrape**](https://github.com/Mohamed-El-Tnash/zill-scrape-case-study)
 
 ---
 
